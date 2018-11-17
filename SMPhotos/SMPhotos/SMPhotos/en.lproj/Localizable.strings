@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  SMPhotos
+
+  Created by Sudhir Madaan on 12/11/18.
+  Copyright © 2018 SM. All rights reserved.
+*/
+
+//Titles
+"title_Ok" = "Ok";
+"title_Oops" = "Oops";
+"title_unable_to_load" = "Unable to load";
+
+//Messages
+"msg_no_internet" = "No internet connection found";
+"msg_err_generic" = "There was an error while processing your request. Please try again after sometime.";
+"msg_empty_text" = "Please enter your search criteria.";
+"msg_no_data" = "No data found";
