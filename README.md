@@ -12,6 +12,9 @@ The app downloads images for **On Screen** elements to optimise network calls. T
 
 1. Pre-Download images for next batch of visible items. 
 2. Persisting images in app's cache directory.
-3. More unit testing.
+3. Display last 5-10 searched items.
+4. Auto complete in search.
+5. Siri based search trigger.
+6. More unit testing.
  
 
